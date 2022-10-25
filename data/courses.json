@@ -1,0 +1,282 @@
+[
+  {
+    "id": 1,
+    "title": "The Modern Javascript Bootcamp Course (2022)",
+    "price": 109.95,
+    "description": "This is the most complete JavaScript course on Udemy. It's an all-in-one package that will take you from the very fundamentals of JavaScript, all the way to building modern and complex applications.You will learn modern JavaScript from the very beginning, step-by-step. I will guide you through practical and fun code examples, important theory about how JavaScript works behind the scenes, and beautiful and complete projects. You will also learn how to think like a developer, how to plan application features, how to architect your code, how to debug code, and a lot of other real-world skills that you will need on your developer job.And unlike other courses, this one actually contains beginner, intermediate, advanced, and even expert topics, so you don't have to buy any other course in order to master JavaScript from the ground up! But... You don't have to go into all these topics. This is a huge course, because, after all, it's The Complete JavaScript Course. In fact, it's like many courses in one! But you can become an excellent developer by watching only parts of the course. That's why I built this course in a very modular way, and designed pathways that will take you through the course faster.",
+    "category": "JavaScript",
+    "image": "https://images.unsplash.com/photo-1579468118864-1b9ea3c0db4a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8amF2YXNjcmlwdHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=1000&q=60",
+    "rating": 3.9,
+    "students": 120
+  },
+  {
+    "id": 2,
+    "title": "JavaScript Basics for Beginners",
+    "price": 22.3,
+    "description": "Join the most comprehensive and in-depth JavaScript course on Udemy and learn JavaScript from the ground up, in great detail with this bestselling course! JavaScript is THE most important programming language you need to learn as a web developer - and with this course, you make sure that you will not miss a single thing you have to know as a JavaScript developer! This is the most comprehensive and modern course you can find on JavaScript - it's based on all my JavaScript knowledge AND teaching experience. It's both a complete guide, starting with the core basics of the language, as well as an extensive reference of the JavaScript language and environment, ensuring that both newcomers as well as experienced JavaScript developers get a lot out of this course!It's a huge course because it's packed with important knowledge and helpful content. From the core basics, over advanced concepts and JavaScript specialties, all the way up to expert topics like performance optimization and testing - this course has it all. My goal was to create your go-to resource for the JavaScript language, which you can not just use for learning it but also as a resource you can come back to and look up important topics.",
+    "category": "JavaScript",
+    "image": "https://images.unsplash.com/photo-1472437774355-71ab6752b434?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fGphdmFzY3JpcHR8ZW58MHx8MHx8&auto=format&fit=crop&w=1000&q=60",
+    "rating": 4.1,
+    "students": 259
+  },
+  {
+    "id": 3,
+    "title": "JavaScript: The Advanced Concepts (2022 Update)",
+    "price": 55.99,
+    "description": "This is the most complete JavaScript course on Udemy. It's an all-in-one package that will take you from the very fundamentals of JavaScript, all the way to building modern and complex applications.You will learn modern JavaScript from the very beginning, step-by-step. I will guide you through practical and fun code examples, important theory about how JavaScript works behind the scenes, and beautiful and complete projects. You will also learn how to think like a developer, how to plan application features, how to architect your code, how to debug code, and a lot of other real-world skills that you will need on your developer job.And unlike other courses, this one actually contains beginner, intermediate, advanced, and even expert topics, so you don't have to buy any other course in order to master JavaScript from the ground up! But... You don't have to go into all these topics. This is a huge course, because, after all, it's The Complete JavaScript Course. In fact, it's like many courses in one! But you can become an excellent developer by watching only parts of the course. That's why I built this course in a very modular way, and designed pathways that will take you through the course faster.",
+    "category": "JavaScript",
+    "image": "https://images.unsplash.com/photo-1507721999472-8ed4421c4af2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTh8fGphdmFzY3JpcHR8ZW58MHx8MHx8&auto=format&fit=crop&w=1000&q=60",
+    "rating": 4.7,
+    "students": 500
+  },
+  {
+    "id": 4,
+    "title": "Modern JavaScript From The Beginning",
+    "price": 15.99,
+    "description": "Join the most comprehensive and in-depth JavaScript course on Udemy and learn JavaScript from the ground up, in great detail with this bestselling course! JavaScript is THE most important programming language you need to learn as a web developer - and with this course, you make sure that you will not miss a single thing you have to know as a JavaScript developer! This is the most comprehensive and modern course you can find on JavaScript - it's based on all my JavaScript knowledge AND teaching experience. It's both a complete guide, starting with the core basics of the language, as well as an extensive reference of the JavaScript language and environment, ensuring that both newcomers as well as experienced JavaScript developers get a lot out of this course!It's a huge course because it's packed with important knowledge and helpful content. From the core basics, over advanced concepts and JavaScript specialties, all the way up to expert topics like performance optimization and testing - this course has it all. My goal was to create your go-to resource for the JavaScript language, which you can not just use for learning it but also as a resource you can come back to and look up important topics.",
+    "category": "JavaScript",
+    "image": "https://images.unsplash.com/photo-1581276879432-15e50529f34b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTR8fGphdmFzY3JpcHR8ZW58MHx8MHx8&auto=format&fit=crop&w=1000&q=60",
+    "rating": 2.1,
+    "students": 430
+  },
+  {
+    "id": 5,
+    "title": "100 Days of Code: The Complete Python Pro Bootcamp for 2022",
+    "price": 695,
+    "description": "Become a Python Programmer and learn one of employer's most requested skills of 2022! This is the most comprehensive, yet straight-forward, course for the Python programming language on Udemy! Whether you have never programmed before, already know basic syntax, or want to learn about the advanced features of Python, this course is for you! In this course we will teach you Python 3. With over 100 lectures and more than 21 hours of video this comprehensive course leaves no stone unturned! This course includes quizzes, tests, coding exercises and homework assignments as well as 3 major projects to create a Python project portfolio!Learn how to use Python for real-world tasks, such as working with PDF Files, sending emails, reading Excel files, Scraping websites for informations, working with image files, and much more! This course will teach you Python in a practical manner, with every lecture comes a full coding screencast and a corresponding code notebook! Learn in whatever manner is best for you!We will start by helping you get Python installed on your computer, regardless of your operating system, whether its Linux, MacOS, or Windows, we've got you covered.",
+    "category": "Python",
+    "image": "https://images.unsplash.com/photo-1526379095098-d400fd0bf935?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8cHl0aG9ufGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    "rating": 4.6,
+    "students": 400
+  },
+  {
+    "id": 6,
+    "title": "2022 Complete Python Bootcamp From Zero to Hero in Python",
+    "price": 168,
+    "description": "Welcome to the 100 Days of Code - The Complete Python Pro Bootcamp, the only course you need to learn to code with Python. With over 500,000 5 STAR reviews and a 4.8 average, my courses are some of the HIGHEST RATED courses in the history of Udemy! We'll take you step-by-step through engaging video tutorials and teach you everything you need to know to succeed as a Python developer.The course includes over 60 hours of HD video tutorials and builds your programming knowledge while making real-world Python projects.  ",
+    "category": "Python",
+    "image": "https://images.unsplash.com/photo-1580121441575-41bcb5c6b47c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fHB5dGhvbnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+    "rating": 3.9,
+    "students": 70
+  },
+  {
+    "id": 7,
+    "title": "Complete Python Developer in 2022: Zero to Mastery",
+    "price": 9.99,
+    "description": "Become a Python Programmer and learn one of employer's most requested skills of 2022! This is the most comprehensive, yet straight-forward, course for the Python programming language on Udemy! Whether you have never programmed before, already know basic syntax, or want to learn about the advanced features of Python, this course is for you! In this course we will teach you Python 3. With over 100 lectures and more than 21 hours of video this comprehensive course leaves no stone unturned! This course includes quizzes, tests, coding exercises and homework assignments as well as 3 major projects to create a Python project portfolio!Learn how to use Python for real-world tasks, such as working with PDF Files, sending emails, reading Excel files, Scraping websites for informations, working with image files, and much more! This course will teach you Python in a practical manner, with every lecture comes a full coding screencast and a corresponding code notebook! Learn in whatever manner is best for you!We will start by helping you get Python installed on your computer, regardless of your operating system, whether its Linux, MacOS, or Windows, we've got you covered.",
+    "category": "Python",
+    "image": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8cHl0aG9uJTIwcHJvZ3JhbW1pbmd8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+    "rating": 3,
+    "students": 400
+  },
+  {
+    "id": 8,
+    "title": "The Complete Python/PostgreSQL Course 2.0",
+    "price": 10.99,
+    "description": "Welcome to the 100 Days of Code - The Complete Python Pro Bootcamp, the only course you need to learn to code with Python. With over 500,000 5 STAR reviews and a 4.8 average, my courses are some of the HIGHEST RATED courses in the history of Udemy! We'll take you step-by-step through engaging video tutorials and teach you everything you need to know to succeed as a Python developer.The course includes over 60 hours of HD video tutorials and builds your programming knowledge while making real-world Python projects.  ",
+    "category": "Python",
+    "image": "https://images.unsplash.com/photo-1518818608552-195ed130cdf4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTN8fHB5dGhvbiUyMHByb2dyYW1taW5nfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    "rating": 1.9,
+    "students": 100
+  },
+  {
+    "id": 9,
+    "title": "The Complete PHP MYSQL Professional Course with 5 Projects",
+    "price": 64,
+    "description": "This course is just awesome. You will learn the basics and then you will jump to making your own CMS. Every little piece of code is described very well, so you exactly know, what you are doing. After finishing this course I was ready to make my own social networking site and that's amazing isn't it? Another great part of this course is its instructor, who helps you with every issue you have in short time. I've have already done many internet courses, but this is definetly the best one.",
+    "category": "PHP",
+    "image": "https://images.unsplash.com/photo-1599507593499-a3f7d7d97667?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8cGhwJTIwcHJvZ3JhbW1pbmd8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+    "rating": 3.3,
+    "students": 203
+  },
+  {
+    "id": 10,
+    "title": "Build a Complete Registration and Login System using PHP MVC",
+    "price": 109,
+    "description": "Are you wanting to get into Web development, but are not sure where to start?  So maybe you tried out some PHP and MySQL tutorials on Youtube, but found them too hard or outdated, and feel that you need a more comprehensive introduction. Maybe you want to learn how to write PHP the right way.  Secure code, OOP ready, and maximising re-usability as well as finding out about PHP programming standards to adopt and adhere too?Perhaps your boss or client threw you in the deep end with a PHP and MySQL project, and you need to get up to speed with PHP, fast. Whatever the reason, this course is for you. This course is going to teach you how to create web applications using PHP and MySQL.  Specifically, you will learn PHP and then create you own content management system (CMS) from scratch.",
+    "category": "PHP",
+    "image": "https://images.unsplash.com/photo-1535551951406-a19828b0a76b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTR8fHBocCUyMHByb2dyYW1taW5nfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    "rating": 2.9,
+    "students": 470
+  },
+  {
+    "id": 11,
+    "title": "PHP Login and Registration System - Email Confirm Activation",
+    "price": 109,
+    "description": "This course is just awesome. You will learn the basics and then you will jump to making your own CMS. Every little piece of code is described very well, so you exactly know, what you are doing. After finishing this course I was ready to make my own social networking site and that's amazing isn't it? Another great part of this course is its instructor, who helps you with every issue you have in short time. I've have already done many internet courses, but this is definetly the best one.",
+    "category": "PHP",
+    "image": "https://images.unsplash.com/photo-1611647832580-377268dba7cb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjR8fHBocCUyMHByb2dyYW1taW5nfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    "rating": 4.8,
+    "students": 319
+  },
+  {
+    "id": 12,
+    "title": "The Complete 2021 PHP Full Stack Web Developer Bootcamp",
+    "price": 114,
+    "description": "Are you wanting to get into Web development, but are not sure where to start?  So maybe you tried out some PHP and MySQL tutorials on Youtube, but found them too hard or outdated, and feel that you need a more comprehensive introduction. Maybe you want to learn how to write PHP the right way.  Secure code, OOP ready, and maximising re-usability as well as finding out about PHP programming standards to adopt and adhere too?Perhaps your boss or client threw you in the deep end with a PHP and MySQL project, and you need to get up to speed with PHP, fast. Whatever the reason, this course is for you. This course is going to teach you how to create web applications using PHP and MySQL.  Specifically, you will learn PHP and then create you own content management system (CMS) from scratch.",
+    "category": "PHP",
+    "image": "https://images.unsplash.com/photo-1534137667199-675a46e143f3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mzd8fHBocCUyMHByb2dyYW1taW5nfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    "rating": 4.8,
+    "students": 400
+  },
+  {
+    "id": 13,
+    "title": "PHP for Beginners",
+    "price": 599,
+    "description": "This course is just awesome. You will learn the basics and then you will jump to making your own CMS. Every little piece of code is described very well, so you exactly know, what you are doing. After finishing this course I was ready to make my own social networking site and that's amazing isn't it? Another great part of this course is its instructor, who helps you with every issue you have in short time. I've have already done many internet courses, but this is definetly the best one.",
+    "category": "PHP",
+    "image": "https://images.unsplash.com/photo-1630476387426-52c6e0b14e50?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NTJ8fHBocCUyMHByb2dyYW1taW5nfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    "rating": 2.9,
+    "students": 250
+  },
+  {
+    "id": 14,
+    "title": "PHP for Beginners - Become a PHP Master - CMS Project",
+    "price": 999.99,
+    "description": "Are you wanting to get into Web development, but are not sure where to start?  So maybe you tried out some PHP and MySQL tutorials on Youtube, but found them too hard or outdated, and feel that you need a more comprehensive introduction. Maybe you want to learn how to write PHP the right way.  Secure code, OOP ready, and maximising re-usability as well as finding out about PHP programming standards to adopt and adhere too?Perhaps your boss or client threw you in the deep end with a PHP and MySQL project, and you need to get up to speed with PHP, fast. Whatever the reason, this course is for you. This course is going to teach you how to create web applications using PHP and MySQL.  Specifically, you will learn PHP and then create you own content management system (CMS) from scratch.",
+    "category": "PHP",
+    "image": "https://images.unsplash.com/photo-1603380353725-f8a4d39cc41e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NjR8fHBocCUyMHByb2dyYW1taW5nfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    "rating": 2.2,
+    "students": 140
+  },
+  {
+    "id": 15,
+    "title": "Creative Advanced CSS Animations - Create 100 Projects!",
+    "price": 56.99,
+    "description": "CSS - short for Cascading Style Sheets - is a programming language you use to turn your raw HTML pages into real beautiful websites.This course covers it all - we start at the very basics (What is CSS? How does it work? How do you use it)? and gradually dive in deeper and deeper. And we do this by showing both practical examples as well as the theory behind it.",
+    "category": "CSS",
+    "image": "https://images.unsplash.com/photo-1507721999472-8ed4421c4af2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Y3NzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    "rating": 2.6,
+    "students": 235
+  },
+  {
+    "id": 16,
+    "title": "Complete Flexbox Course: Master CSS3 Flexbox for Good",
+    "price": 29.95,
+    "description": "Have you been coding CSS for some time, but want to take your game to the next level? Do you feel confused with CSS jargon like inheritance, specificity, or the cascade? What if there was one resource, one place, where you could learn all the advanced and modern CSS techniques and properties you've been reading about? Welcome to Advanced CSS and Sass, the most advanced, the most modern, and the most complete CSS course on the internet. It's everything you want in an advanced CSS course, and more. You will learn complex CSS animations, advanced responsive design techniques, flexbox layouts, Sass, CSS architecture, fundamental CSS concepts, and so much more.Like in all my courses, you will build beautiful and carefully designed projects, that will make you proud of yourself and leave you ready to build complex projects on your own.",
+    "category": "CSS",
+    "image": "https://images.unsplash.com/photo-1621839673705-6617adf9e890?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8Y3NzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    "rating": 2.9,
+    "students": 340
+  },
+  {
+    "id": 17,
+    "title": "Ultimate CSS Grid Course: From Beginner to Advanced",
+    "price": 39.99,
+    "description": "CSS - short for Cascading Style Sheets - is a programming language you use to turn your raw HTML pages into real beautiful websites.This course covers it all - we start at the very basics (What is CSS? How does it work? How do you use it)? and gradually dive in deeper and deeper. And we do this by showing both practical examples as well as the theory behind it.",
+    "category": "CSS",
+    "image": "https://images.unsplash.com/photo-1524666643752-b381eb00effb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fGNzc3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+    "rating": 3.8,
+    "students": 679
+  },
+  {
+    "id": 18,
+    "title": "Advanced CSS and Sass: Flexbox, Grid, Animations and More!",
+    "price": 9.85,
+    "description": "Have you been coding CSS for some time, but want to take your game to the next level? Do you feel confused with CSS jargon like inheritance, specificity, or the cascade? What if there was one resource, one place, where you could learn all the advanced and modern CSS techniques and properties you've been reading about? Welcome to Advanced CSS and Sass, the most advanced, the most modern, and the most complete CSS course on the internet. It's everything you want in an advanced CSS course, and more. You will learn complex CSS animations, advanced responsive design techniques, flexbox layouts, Sass, CSS architecture, fundamental CSS concepts, and so much more.Like in all my courses, you will build beautiful and carefully designed projects, that will make you proud of yourself and leave you ready to build complex projects on your own.",
+    "category": "CSS",
+    "image": "https://images.unsplash.com/photo-1517180102446-f3ece451e9d8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzF8fGNzc3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+    "rating": 4.7,
+    "students": 130
+  },
+  {
+    "id": 19,
+    "title": "CSS - The Complete Guide 2022 (incl. Flexbox, Grid & Sass)",
+    "price": 7.95,
+    "description": "CSS - short for Cascading Style Sheets - is a programming language you use to turn your raw HTML pages into real beautiful websites.This course covers it all - we start at the very basics (What is CSS? How does it work? How do you use it)? and gradually dive in deeper and deeper. And we do this by showing both practical examples as well as the theory behind it.",
+    "category": "CSS",
+    "image": "https://images.unsplash.com/photo-1585384107568-5bc588c7eefd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mzd8fGNzc3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+    "rating": 4.5,
+    "students": 146
+  },
+  {
+    "id": 20,
+    "title": "Build Responsive Real-World Websites with HTML and CSS",
+    "price": 12.99,
+    "description": "Have you been coding CSS for some time, but want to take your game to the next level? Do you feel confused with CSS jargon like inheritance, specificity, or the cascade? What if there was one resource, one place, where you could learn all the advanced and modern CSS techniques and properties you've been reading about? Welcome to Advanced CSS and Sass, the most advanced, the most modern, and the most complete CSS course on the internet. It's everything you want in an advanced CSS course, and more. You will learn complex CSS animations, advanced responsive design techniques, flexbox layouts, Sass, CSS architecture, fundamental CSS concepts, and so much more.Like in all my courses, you will build beautiful and carefully designed projects, that will make you proud of yourself and leave you ready to build complex projects on your own.",
+    "category": "CSS",
+    "image": "https://images.unsplash.com/photo-1607706189992-eae578626c86?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTE5fHxjc3N8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+    "rating": 3.6,
+    "students": 145
+  },
+  {
+    "id": 21,
+    "title": "C Programming For Beginners - Master the C Language",
+    "price": 22.95,
+    "description": "This course has been optimized to meet the requirements and demands of students who are eager to learn the C Programming Language in the most easy and attractive manner. Including handpicked coding materials and over 100 exercises with full video solutions - this bestseller course is expected to provide you with everything you need to get started (for beginners) as well as provide you with beneficial knowledge if you're working at High-tech industry (especially in the Embedded, Microcontrollers, Cyber, and other domains).",
+    "category": "C",
+    "image": "https://images.unsplash.com/photo-1562813733-b31f71025d54?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fGNvZGluZ3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+    "rating": 3.8,
+    "students": 440
+  },
+  {
+    "id": 22,
+    "title": "The Complete C Programming Bootcamp",
+    "price": 29.99,
+    "description": "C is often considered to be the mother of all languages because so many other languages have been based on it. Though C is simple it is one of the most powerful languages ever created.  Considering it was created over 40 years ago, it is still used heavily and is usually in the top 5 or 10 most popular and most widely programming languages in the world. Learning C can actually make you a better programming in other languages like C++, Java, or C# by equipping you with a mental model of what the computer is actually doing when you run your programs. By learning how things really work under the hood, and understand memory space, CPU architecture and so on, you can create more efficient programs, and obtain a huge advantage over other programmers in the process.If you want to become a better developer, learning C is a great way to start!.",
+    "category": "C",
+    "image": "https://images.unsplash.com/photo-1614741118887-7a4ee193a5fa?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fGNvZGluZ3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+    "rating": 4.8,
+    "students": 675
+  },
+  {
+    "id": 23,
+    "title": "Advanced C Programming Course",
+    "price": 19.85,
+    "description": "This course has been optimized to meet the requirements and demands of students who are eager to learn the C Programming Language in the most easy and attractive manner. Including handpicked coding materials and over 100 exercises with full video solutions - this bestseller course is expected to provide you with everything you need to get started (for beginners) as well as provide you with beneficial knowledge if you're working at High-tech industry (especially in the Embedded, Microcontrollers, Cyber, and other domains).",
+    "category": "C",
+    "image": "https://images.unsplash.com/photo-1580894742597-87bc8789db3d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTR8fGNvZGluZ3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+    "rating": 4.6,
+    "students": 180
+  },
+  {
+    "id": 24,
+    "title": "Developing a C Compiler From Scratch - Module 1",
+    "price": 51.95,
+    "description": "C is often considered to be the mother of all languages because so many other languages have been based on it. Though C is simple it is one of the most powerful languages ever created.  Considering it was created over 40 years ago, it is still used heavily and is usually in the top 5 or 10 most popular and most widely programming languages in the world. Learning C can actually make you a better programming in other languages like C++, Java, or C# by equipping you with a mental model of what the computer is actually doing when you run your programs. By learning how things really work under the hood, and understand memory space, CPU architecture and so on, you can create more efficient programs, and obtain a huge advantage over other programmers in the process.If you want to become a better developer, learning C is a great way to start!",
+    "category": "C",
+    "image": "https://images.unsplash.com/photo-1536148935331-408321065b18?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjN8fGNvZGluZ3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+    "rating": 3.5,
+    "students": 246
+  },
+  {
+    "id": 25,
+    "title": "Learn JAVA Programming - Beginner to Master",
+    "price": 29.95,
+    "description": "The course consists of JAVA features, Java SE Concept of programming are made simple and easy. Every topic is explained with real-life examples. This course is designed to make you familiar with JAVA Programming in detail. By the end of the course you will understand Java extremely well and will be able to build your own Java applications. After completion of the course, you will be as productive as a software developer. The course is taken right from basics to all the features in JAVA. Basic topics like – Methods, Object-Orientation and Inheritance are explained.Features like – Multithreading, AWT, Swing, Collection Framework and Networking are also covered in a detailed manner.",
+    "category": "JAVA",
+    "image": "https://images.unsplash.com/photo-1588239034647-25783cbfcfc1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8amF2YXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+    "rating": 2.9,
+    "students": 340
+  },
+  {
+    "id": 26,
+    "title": "The Complete Java Development Bootcamp",
+    "price": 19.99,
+    "description": "This course is intended for absolute beginners to programming OR those who don't mind a slower pace to learning Java. If you're looking for a faster-paced course, this may not be for you (though you can play back at 2x speed & may still find great things to learn). Also, even for those who already know some basic Java, you could skip over the parts you already know and focus on those you may not, like Regex, Streams/Lambdas API, Optionals, Date/Time, SQL/Database/JDBC sections that even seasoned Java developers may not know as well as they should. Many of my sections on these APIs are as long or longer than MANY stand-alone courses dedicated to just one of these topics - for similar prices. Check out my preview videos from each of those sections to gauge how deep I go into each topic.",
+    "category": "JAVA",
+    "image": "https://plus.unsplash.com/premium_photo-1661692759400-15aa4e2de6c3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8amF2YSUyMHByb2dyYW1taW5nfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    "rating": 3.8,
+    "students": 279
+  },
+  {
+    "id": 27,
+    "title": "Java Programming for Complete Beginners",
+    "price": 29.85,
+    "description": "The topics covered include Object Orientation which I think is not stressed enough in other Java courses so I've got special focus on that throughout the lectures. You'll get plenty of practice writing classes and interfaces as well as countless methods with loops and if else statements, exception handling and file processing as well as how to debug software using Eclipse. You'll also be mastering the collections framework and diving deep into java generics. You'll learn all there is to know about multi-threading and the JDBC API for working with a MySQL database. There are also practical projects scattered throughout the course so that you can practice the concepts as you learn them. For example one of the projects is related to a car dealership management system and another assignment involves processing files with stock market data. So as you can see, I tried to keep the projects professional and industry relevant rather than cloning a game like flappy bird.",
+    "category": "JAVA",
+    "image": "https://images.unsplash.com/photo-1618422168181-177d9d0a1fca?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTR8fGphdmElMjBwcm9ncmFtbWluZ3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+    "rating": 4.7,
+    "students": 330
+  },
+  {
+    "id": 28,
+    "title": "Java Programming Masterclass covering Java 11 & Java 17",
+    "price": 12.99,
+    "description": "This course is designed to give you the Java skills you need to get a job as a Java developer. By the end of the course, you will understand Java extremely well and be able to build your own Java apps and be productive as a software developer. Lots of students have been successful in getting their first job or promotion after going through the course. Here is just one example of a student who lost her job and despite having never coded in her life previously, got a full-time software developer position in just a few months after starting this course.  She didn't even complete the course!",
+    "category": "JAVA",
+    "image": "https://images.unsplash.com/photo-1628258334105-2a0b3d6efee1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjB8fGphdmElMjBwcm9ncmFtbWluZ3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+    "rating": 4.5,
+    "students": 121
+  }
+]
