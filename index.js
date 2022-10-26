@@ -22,11 +22,15 @@ app.get('/category', (req, res) => {
 })
 
 app.get('/category/:id', (req, res) => {
-    const id = req.params.id;
-    console.log(id)
-    const selectedCourses = allCourses.filter(course => course.categoryId == id)
-    console.log(selectedCourses)
+    const id = parseInt(req.params.id);
+    const selectedCourses = allCourses.filter(course => course.categoryId === id);
     res.send(selectedCourses)
+})
+
+app.get('/course/:id', (req, res) => {
+    const id = parseInt(req.params.id);
+    const selectedCourse = allCourses.find(course => course.id === id);
+    res.send(selectedCourse)
 })
 
 
