@@ -21,6 +21,14 @@ app.get('/category', (req, res) => {
     res.send(category)
 })
 
+app.get('/category/:id', (req, res) => {
+    const id = req.params.id;
+    console.log(id)
+    const selectedCourses = allCourses.filter(course => course.categoryId == id)
+    console.log(selectedCourses)
+    res.send(selectedCourses)
+})
+
 
 app.listen(port, ()=>{
     console.log('server is running port', port)
